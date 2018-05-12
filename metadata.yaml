@@ -1,0 +1,35 @@
+_repo: Luiz-de-Cam-es-marinheiro_21779
+_version: 0.1.0
+alternative_title: Luís de Camões marinheiro
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eça, Vicente de Almeida de
+    alias: Eca, Vicente de Almeida de
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '24882'
+    url: http://www.gutenberg.org/2009/agents/24882
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2007-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21779'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom Google Book Search)"
+publication_note: "David Corazzi--Editor\r\nEmpreza Horas Romanticas\r\nRua da Atalaya,\
+  \ 40 a 52\r\n1880"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Camões, Luís de, 1524?-1580 -- Knowledge -- Naval art and science'
+title: Luiz de Camões marinheiro
+url: http://www.gutenberg.org/ebooks/21779
